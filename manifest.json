@@ -1,0 +1,7 @@
+{
+  "id": "theme-basalt",
+  "name": "Basalt",
+  "version": "0.1.0",
+  "description": "Volcanic column dark. Cool lichen gray-green.",
+  "main": "dist/index.js"
+}
